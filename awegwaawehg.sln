@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "awegwaawehg", "awegwaawehg.csproj", "{3487DBA9-5F60-4987-B0F1-AC0B4419E8C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mono.Cecil", "..\..\test\cecil\Mono.Cecil.csproj", "{4ED61383-7CEB-4D91-B927-41E0A72DA03E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3487DBA9-5F60-4987-B0F1-AC0B4419E8C8}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{3487DBA9-5F60-4987-B0F1-AC0B4419E8C8}.Debug|anycpu.Build.0 = Debug|anycpu
+		{3487DBA9-5F60-4987-B0F1-AC0B4419E8C8}.Release|anycpu.ActiveCfg = Release|anycpu
+		{3487DBA9-5F60-4987-B0F1-AC0B4419E8C8}.Release|anycpu.Build.0 = Release|anycpu
+		{4ED61383-7CEB-4D91-B927-41E0A72DA03E}.Debug|anycpu.ActiveCfg = Debug|Any CPU
+		{4ED61383-7CEB-4D91-B927-41E0A72DA03E}.Debug|anycpu.Build.0 = Debug|Any CPU
+		{4ED61383-7CEB-4D91-B927-41E0A72DA03E}.Release|anycpu.ActiveCfg = Release|Any CPU
+		{4ED61383-7CEB-4D91-B927-41E0A72DA03E}.Release|anycpu.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F12B3DC-59E4-4AD1-B695-6A108D66587B}
+	EndGlobalSection
+EndGlobal
