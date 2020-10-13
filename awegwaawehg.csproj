@@ -34,7 +34,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\test\cecil\Mono.Cecil.csproj">
+    <ProjectReference Include="cecil\Mono.Cecil.csproj">
       <Project>{4ED61383-7CEB-4D91-B927-41E0A72DA03E}</Project>
       <Name>Mono.Cecil</Name>
     </ProjectReference>

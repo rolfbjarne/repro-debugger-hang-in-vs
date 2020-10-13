@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.808.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "awegwaawehg", "awegwaawehg.csproj", "{3487DBA9-5F60-4987-B0F1-AC0B4419E8C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mono.Cecil", "..\..\test\cecil\Mono.Cecil.csproj", "{4ED61383-7CEB-4D91-B927-41E0A72DA03E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mono.Cecil", "cecil\Mono.Cecil.csproj", "{4ED61383-7CEB-4D91-B927-41E0A72DA03E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
